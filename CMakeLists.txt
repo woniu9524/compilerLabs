@@ -7,3 +7,4 @@ add_executable(compileLabs main.c)
 add_executable(lexicalAnalysis lexicalAnalysis.c)
 
 add_executable(recursive-descent recursiveDescent.c)
+add_executable(predictionAnalysis predictionAnalysis.c)
