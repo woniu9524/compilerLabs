@@ -8,3 +8,4 @@ add_executable(lexicalAnalysis lexicalAnalysis.c)
 
 add_executable(recursive-descent recursiveDescent.c)
 add_executable(predictionAnalysis predictionAnalysis.c)
+add_executable(calculator calculator.c)
